@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinav162003
 - 👀 I’m interested in tabel  tennis and fps games
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on intek.
+- 💞️ I’m looking to collaborate on intel.
 - 📫 How to reach me 
 - Gmail-abhinavgosain@gmail.com
 - Phone No-9140317918
