@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Abhinav162003
-- 👀 I’m interested in tabel tennis and fps games
-- 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on intel.
+- 👋 Hi, I’m @Abhinav Gosain .
+- 👀 I’m interested in competative coding and software development .
+- 🌱 I’m currently learning programming in C++,C,Java.
+- 💞️ I’m looking to collaborate on good  development companies and want to learn more about there work and new thing like Intel,AMD,Nvidea,etc.
+-    Some of my hobbies are tabel tennis and fps gameing .
 - 📫 How to reach me 
+
 - Gmail-abhinavgosain@gmail.com
 - Phone No-8148217918
 
-<!---
-Abhinav162003/Abhinav162003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
